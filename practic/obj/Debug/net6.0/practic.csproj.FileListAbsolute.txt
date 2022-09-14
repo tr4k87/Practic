@@ -1,0 +1,15 @@
+D:\Обучение\Практическое задание\practic\bin\Debug\net6.0\practic.exe
+D:\Обучение\Практическое задание\practic\bin\Debug\net6.0\practic.deps.json
+D:\Обучение\Практическое задание\practic\bin\Debug\net6.0\practic.runtimeconfig.json
+D:\Обучение\Практическое задание\practic\bin\Debug\net6.0\practic.dll
+D:\Обучение\Практическое задание\practic\bin\Debug\net6.0\practic.pdb
+D:\Обучение\Практическое задание\practic\obj\Debug\net6.0\practic.csproj.AssemblyReference.cache
+D:\Обучение\Практическое задание\practic\obj\Debug\net6.0\practic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Практическое задание\practic\obj\Debug\net6.0\practic.AssemblyInfoInputs.cache
+D:\Обучение\Практическое задание\practic\obj\Debug\net6.0\practic.AssemblyInfo.cs
+D:\Обучение\Практическое задание\practic\obj\Debug\net6.0\practic.csproj.CoreCompileInputs.cache
+D:\Обучение\Практическое задание\practic\obj\Debug\net6.0\practic.dll
+D:\Обучение\Практическое задание\practic\obj\Debug\net6.0\refint\practic.dll
+D:\Обучение\Практическое задание\practic\obj\Debug\net6.0\practic.pdb
+D:\Обучение\Практическое задание\practic\obj\Debug\net6.0\practic.genruntimeconfig.cache
+D:\Обучение\Практическое задание\practic\obj\Debug\net6.0\ref\practic.dll
